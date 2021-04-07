@@ -10,7 +10,7 @@
 <!-- Mirrored from webdesign-finder.com/html/Crystal Finance Limited/<?=base_url()?> by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 13 Sep 2020 23:55:30 GMT -->
 
 <head>
-    <title>Crystal Finance Limited</title>
+    <title>Crystal Finance Company</title>
     <meta charset="utf-8">
     <!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -208,8 +208,8 @@
 
                         </div>
                         <div class="col-md-4 text-center text-md-center">
-                            <a href="https://dashboard.crystalfinanceng.com" class="btn btn-cf medium-btn">Start Investment</a>
-                            <a href="https://dashboard.crystalfinanceng.com" class="btn btn-cf medium-btn">Request Loan</a>
+                            <a href="#" class="btn btn-cf medium-btn">Start Investment</a>
+                            <a href="#" class="btn btn-cf medium-btn">Request Loan</a>
 
                         </div>
 
